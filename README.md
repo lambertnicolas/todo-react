@@ -5,6 +5,7 @@ Créer une Todo list :
 - Ajouter un élément dans la liste
 - Cocher les éléments "fait"
 - Supprimer les élémenets "fait" via le bouton clear
+- Garder la liste des todo dans le localStorage
 
 ## Languages Utilisés
 
