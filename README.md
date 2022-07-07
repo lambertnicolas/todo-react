@@ -16,7 +16,7 @@ React
 
 ## Link
 
-[https://lambertnicolas.github.io/todo-react/](https://lambertnicolas.github.io/todo-react/)
+[https://62c6e45d0d2b5d218cc87c6a--dulcet-longma-afd0bc.netlify.app/](https://62c6e45d0d2b5d218cc87c6a--dulcet-longma-afd0bc.netlify.app/)
 
 ## Preview
 
