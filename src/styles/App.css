@@ -1,0 +1,100 @@
+body {
+  height: 100vh;
+  background-color: rgb(240, 240, 240);
+  background-size: cover;
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  background-color: #1d1b26;
+  height: 60px;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.divhead {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: center;
+}
+
+h1 {
+  margin: 10px 20px 0 20px;
+  background: #ffffff;
+  background: linear-gradient(to right, #ffffff 0%, #80d47d 50%, #c1ffbf 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.App-logo {
+  height: 50px;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+main {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.addinput {
+  margin: 0 auto;
+  margin-bottom: 30px;
+  width: 80%;
+  height: 30px;
+  border-radius: 10px;
+  padding: 10px;
+  border: none;
+  color: black;
+  background: rgb(106, 106, 106, 0.3);
+}
+.addinput:focus {
+  border: none;
+  outline: none;
+}
+.addinput::placeholder {
+  color: rgb(0, 0, 0);
+}
+.btns {
+  width: 100%;
+  text-align: center;
+}
+#btn {
+  margin: 5px;
+}
+
+.todo {
+  color: rgb(39, 39, 39);
+  text-align: center;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.list {
+  padding-left: 10%;
+}
+
+input[type="checkbox"] {
+  height: 1.25rem;
+  width: 1.25rem;
+  background: rgba(241, 245, 248, 1);
+  border: 1px solid rgba(184, 194, 204, 1);
+  border-radius: 0.125rem;
+  margin: 10px;
+}
