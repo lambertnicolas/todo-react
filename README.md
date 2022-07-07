@@ -7,13 +7,14 @@ Créer une Todo list :
 - Supprimer les élémenets "fait" via le bouton clear
 - Garder la liste des todo dans le localStorage
 
-## Languages Utilisés
+## Technos Utilisées
 
 ```sh
 HTML
 CSS
 React
 ```
+MUI : première approche
 
 ## Link
 
