@@ -15,7 +15,7 @@ React
 
 ## Link
 
-[https://lambertnicolas.github.io/character-manager-js/](https://lambertnicolas.github.io/todo-react/)
+[https://lambertnicolas.github.io/todo-react/](https://lambertnicolas.github.io/todo-react/)
 
 ## Preview
 
